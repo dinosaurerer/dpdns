@@ -1,6 +1,6 @@
 # DigitalPlat 免费域名服务
 
-![DigitalPlat Logo](https://via.placeholder.com/800x400?text=DigitalPlat+Free+Domain)
+![DigitalPlat Logo](https://dash.domain.digitalplat.org/static/img/logo.jpg)
 
 🌐 一个提供免费域名注册与管理的开源平台
 
