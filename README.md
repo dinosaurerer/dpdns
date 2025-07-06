@@ -1,8 +1,9 @@
 # DigitalPlat 免费域名服务
 
-![DigitalPlat Logo](https://dash.domain.digitalplat.org/static/img/logo.jpg)
+<img src="/assets/logo.jpg" alt="DigitalPlat Logo" style="width: 300px; height: auto;">
 
 🌐 一个提供免费域名注册与管理的开源平台
+
 
 ## ✨ 核心功能
 
@@ -60,3 +61,4 @@ Apache License 2.0
 - 修改技术栈描述
 - 更新许可证类型
 - 添加项目路线图等部分
+
