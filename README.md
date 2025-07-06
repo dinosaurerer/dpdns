@@ -1,2 +1,2 @@
-# dpdns
-dpdns html
+# dinosaur
+blog
