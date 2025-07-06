@@ -1,4 +1,3 @@
-```markdown
 # DigitalPlat 免费域名服务
 
 ![DigitalPlat Logo](https://via.placeholder.com/800x400?text=DigitalPlat+Free+Domain)
